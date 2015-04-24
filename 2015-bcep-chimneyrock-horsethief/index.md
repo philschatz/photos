@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![image](./IMG_20150418_091840.jpg)
 ![image](./IMG_20150418_094228.jpg)
 ![image](./IMG_20150418_094837.jpg)
