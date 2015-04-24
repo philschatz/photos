@@ -1,1 +1,7 @@
-img { max-width: 640px; }
+body {
+  max-width: 40%;
+}
+
+img {
+  width: 100%;
+}
