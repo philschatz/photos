@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# BCEP Chimney Rock and Horsethief
+# BCEP Chimney Rock and Horsethief [source](https://github.com/philschatz/photos)
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 <ol class="carousel-indicators">
