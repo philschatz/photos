@@ -4,6 +4,6 @@ body {
   margin-right: auto;
 }
 
-img {
-  max-height: 2048px;
+.item {
+  max-height: 600px;
 }
