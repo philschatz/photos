@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# BCEP Chimney Rock and Horsethief [source](https://github.com/philschatz/photos)
+# Smith rock with Jenny, Rosie, and Laura [source](https://github.com/philschatz/photos)
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 <ol class="carousel-indicators">
